@@ -1,3 +1,5 @@
+lib64 and mysql-connector-c++-9.1.0-winx64 need to download yourself.
+
 Copyright (c) 2008, 2024, Oracle and/or its affiliates.
 
 This is a release of MySQL Connector/C++, the C++ interface for communicating
